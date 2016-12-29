@@ -8,8 +8,6 @@
 *.iml
 *.iws
 **/out
-/overlays/
-/core/overlays/
 
 # Mac
 .DS_Store
